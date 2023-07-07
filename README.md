@@ -1,4 +1,4 @@
-# flatdango
+# FLATDANGO
 ## Description
 - This challenge is working on  building out an application, Flatdango, that allows a user to purchase movie tickets from the theater.
 

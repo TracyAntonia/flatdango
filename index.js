@@ -3,13 +3,6 @@ const movieList = document.querySelector('.movie-list');
 let movies;
 let currentMovie;
 
-const movieTitle = document.createElement('h2');
-const movieRuntime = document.createElement('p');
-const movieCapacity = document.createElement('p');
-const showtime = document.createElement('p');
-const ticketsAvailable = document.createElement('p');
-const movieDescription = document.createElement('p');
-const moviePoster = document.createElement('img');
 
 const buyTicket = document.createElement('button');
 
