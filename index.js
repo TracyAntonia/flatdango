@@ -21,11 +21,13 @@ buyTicket.addEventListener('click', () => {
 
 movieList.appendChild(moviesUl);
 
+// Movies URL
 const allMoviesUrl = 'https://api.npoint.io/1b4738002482f1452f54/films';
 
 document.addEventListener('DOMContentLoaded', fetchPlaceholderMovie);
 document.addEventListener('DOMContentLoaded', renderMoviesList);
 
+// Fetching the data
 function fetchPlaceholderMovie() {
 	fetch(allMoviesUrl)
 		.then((res) => res.json())
