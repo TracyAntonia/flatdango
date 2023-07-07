@@ -43,8 +43,8 @@
        NB: While cloning the repository, use your git hub link by clicking on code and copying the ssh key link.
 
 ## How it works
-1. First you need to run `npx json-server --watch db.json` to run the json surver that has all the animals information.
-2. After the server runs you should be able to view the page in your Chrome browser and vote for the animals.
+1. First you need to run `npx json-server --watch db.json` to run the json surver that has all the movies information.
+2. After the server runs you should be able to view the page in your Chrome browser and be able to see available movies and buy a ticket.
 
 ## Summary
 - As a user, you can:
