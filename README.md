@@ -56,3 +56,14 @@
 
    See a menu of all movies on the left side of the page when the page loads. You can buy a ticket for a movie. After clicking the "Buy Ticket" button, I should
    see the number of available tickets decreasing. You cannot be able to buy a ticket if the showing is sold out (if there are 0 tickets available). No persistence is needed for this feature.
+
+## Technology used
+ - Javascript
+ - Html
+ - Css
+
+## Author
+The author of this project is:-  `Antonia Tracy.`
+
+## License
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
