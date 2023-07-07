@@ -54,4 +54,5 @@
    `tickets_sold` from the theater's `capacity`. A GET
    request is used to retrieve the film data.
 
-  
+   See a menu of all movies on the left side of the page when the page loads. You can buy a ticket for a movie. After clicking the "Buy Ticket" button, I should
+   see the number of available tickets decreasing. You cannot be able to buy a ticket if the showing is sold out (if there are 0 tickets available). No persistence is needed for this feature.
