@@ -38,16 +38,11 @@ img {
 	border-radius: 10px;
 }
 
-h2 {
-	/* font-family: var(--headings-font); */
-}
 p {
-	/* font-family: var(--body-font); */
 	width: 50%;
 	text-align: center;
 }
 
-/* List styles */
 li {
 	list-style: none;
 	border-radius: 4px;
@@ -56,7 +51,6 @@ li {
 	color: #b0b4e0;
 	text-align: center;
 	font-size: 17px;
-	/* font-family: var(--headings-font); */
 	padding: 16px;
 	transition: all 0.5s;
 	cursor: pointer;
@@ -70,13 +64,11 @@ li:hover {
 	transition: 0.5s;
 }
 
-/* Button Styles */
 button {
 	position: relative;
 	background-color: rgb(16, 53, 95);
 	border-radius: 5px;
-	/* box-shadow: rgb(39, 72, 116) 0px 4px 0px 0px; */
-	padding: 15px;
+	padding: 10px;
 	background-repeat: no-repeat;
 	box-sizing: border-box;
 	width: 154px;
